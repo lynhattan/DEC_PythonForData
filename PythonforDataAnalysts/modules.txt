@@ -1,0 +1,7 @@
+CommandLineProcessesAndEnvironmentVariables.ipynb:      "ImportingModules.ipynb\r\n",
+CommandLineProcessesAndEnvironmentVariables.ipynb:      "-rw-rw-r-- 1 ubuntu ubuntu 17074 Thg 6  20 14:26 ImportingModules.ipynb\r\n",
+CommandLineProcessesAndEnvironmentVariables.ipynb:       " 'ImportingModules.ipynb',\n",
+CommandLineProcessesAndEnvironmentVariables.ipynb:      "CommandLineProcessesAndEnvironmentVariables.ipynb:      \"ImportingModules.ipynb\\r\\n\",\r\n",
+CommandLineProcessesAndEnvironmentVariables.ipynb:      "CommandLineProcessesAndEnvironmentVariables.ipynb:      \"-rw-rw-r-- 1 ubuntu ubuntu 17074 Thg 6  20 14:26 ImportingModules.ipynb\\r\\n\",\r\n",
+CommandLineProcessesAndEnvironmentVariables.ipynb:      "CommandLineProcessesAndEnvironmentVariables.ipynb:       \" 'ImportingModules.ipynb',\\n\",\r\n"
+CommandLineProcessesAndEnvironmentVariables.ipynb:    "!grep -e \"Modules\" *"
