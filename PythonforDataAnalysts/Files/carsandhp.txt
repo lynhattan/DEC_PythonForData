@@ -1,3 +1,0 @@
-Mustang,295
-Phantom,465
-Wraith,450
